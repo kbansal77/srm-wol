@@ -59,7 +59,7 @@ h3{
     display: inline;
 }
 
-img{
+.logo{
     height: 100px;
 }
 
@@ -117,4 +117,25 @@ img{
   .black{
       color: white;
       margin:15px 0; 
+  }
+
+  .input{
+    float:left;
+    padding:0 30px;
+    width:30%;
+  }
+
+  .output{
+    float:right;
+    padding:0 40px;
+    width:30%
+  }
+
+  .text1{
+    padding-top:350px;
+
+  }
+
+  .text2{
+    padding-top:660px;
   }
